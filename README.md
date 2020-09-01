@@ -13,5 +13,5 @@ Step 1:
  
    
         dependencies {
-	          implementation 'com.github.MuthuHere:GpsEnable:Tag'
+	          implementation 'com.github.MuthuHere:GpsEnable:VERSION'
 	      }
