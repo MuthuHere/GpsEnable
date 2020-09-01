@@ -1,0 +1,3 @@
+include ':gps'
+include ':app'
+rootProject.name = "EnableGps"
