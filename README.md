@@ -13,5 +13,5 @@ Step 1:
  
    
         dependencies {
-	          implementation 'com.github.MuthuHere:GpsEnable:VERSION'
+	          implementation 'com.github.MuthuHere:GpsEnable:1.0.0'
 	      }
